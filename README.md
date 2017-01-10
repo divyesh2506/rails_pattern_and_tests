@@ -1,0 +1,1 @@
+# rails_pattern_and_tests
